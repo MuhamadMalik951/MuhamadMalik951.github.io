@@ -12,9 +12,7 @@
 
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhamadMalik951&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhamadMalik951&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="MuhamadMalik's stats card" /></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhamadMalik951 &theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="MuhamadMalik951  stats card" /></p>
-<a href="https://git-scm.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
 </a>
