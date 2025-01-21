@@ -48,7 +48,7 @@ These projects demonstrate my proficiency in full-stack web development and show
 
 I'm open to collaborations and new opportunities! Feel free to reach out to me via:
 
-- Email: [muhamadmalik951@gmail.com](mailto:muhamadmalik951@gmail.com)
+- Email: [muhamadmalik.dev@gmail.com](mailto:muhamadmalik.dev@gmail.com)
 - LinkedIn: [Muhamad Malik](https://www.linkedin.com/in/muhamad-malik/)
 
 I'm excited to connect with fellow developers and work on creative projects together!
