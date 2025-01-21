@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Muhamad Malik
 
-<img src="https://github.com/MuhamadMalik951.png" alt="Muhamad Malik" align="right" width="150" height="150">
+<img src="https://github.com/muhamadmalik.png" alt="Muhamad Malik" align="right" width="150" height="150">
 
 I'm a Full-stack Web Developer with a passion for building dynamic and user-friendly applications. I specialize in using React, Next.js, TypeScript, Node.js, and MySQL to create robust and scalable web solutions. Constantly expanding my skill set, I love exploring new tools and technologies to enhance my development process.
 
@@ -22,31 +22,31 @@ I'm currently honing my skills in backend development with Node.js. I'm particul
 
 **💼 Professional Background:**
 
-With professional experience as a software engineer, I bring a capabble skill set and a commitment to creating high-quality web solutions. I'm passionate about delivering efficient and user-friendly applications that leave a positive impact on the user experience.
+With professional experience as a software engineer, I bring a capable skill set and a commitment to creating high-quality web solutions. I'm passionate about delivering efficient and user-friendly applications that leave a positive impact on the user experience.
 
 **🔧 Projects:**
 
 Here are some of my highlight projects:
 
-🌤️ [Weather App](https://github.com/MuhamadMalik951/Weather-App) - A web application that provides real-time weather forecasts for any location.
+🌤️ [Weather App](https://github.com/muhamadmalik/Weather-App) - A web application that provides real-time weather forecasts for any location.
 
-📄 [Resume Builder](https://github.com/MuhamadMalik951/resume-builder) - A web application that allows users to easily create and download customized resumes..
+📄 [Resume Builder](https://github.com/muhamadmalik/resume-builder) - A web application that allows users to easily create and download customized resumes.
 
-📝 [To-Do List](https://github.com/MuhamadMalik951/to-do) - A simple and intuitive to-do list application where users can create, manage, and prioritize tasks.
+📝 [To-Do List](https://github.com/muhamadmalik/to-do) - A simple and intuitive to-do list application where users can create, manage, and prioritize tasks.
 
-❌ [Tic-Tac-Toe](https://github.com/MuhamadMalik951/Tic-Tac-Toe) - A classic Tic-Tac-Toe game built with JavaScript, featuring a simple user interface for 2-player gameplay.
+❌ [Tic-Tac-Toe](https://github.com/muhamadmalik/Tic-Tac-Toe) - A classic Tic-Tac-Toe game built with JavaScript, featuring a simple user interface for 2-player gameplay.
 
-🍽️ [Restaurant Site](https://github.com/MuhamadMalik951/Resuarant-Site) - A restaurant website showcasing menu items, customer reviews, and a reservation feature.
+🍽️ [Restaurant Site](https://github.com/muhamadmalik/Resuarant-Site) - A restaurant website showcasing menu items, customer reviews, and a reservation feature.
 
 These projects demonstrate my proficiency in full-stack web development and showcase my ability to create functional and visually appealing web applications.
 
 **🎉 GitHub Stats:**
 
-![Muhamad's Github Stats](https://github-readme-stats.vercel.app/api?username=MuhamadMalik951)
+![Muhamad's Github Stats](https://github-readme-stats.vercel.app/api?username=muhamadmalik)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMalik951&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadmalik&layout=compact)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MuhamadMalik951)](https://github.com/MuhamadMalik951)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhamadmalik)](https://github.com/muhamadmalik)
 
 **📫 Contact Me:**
 
@@ -61,7 +61,7 @@ I'm excited to connect with fellow developers and work on creative projects toge
 
 🚀 Contribution and Repositories:
 
-I'm passionate about coding and actively contribute to open-source projects. So far, I have made one contribution by creating a pull request on the "MuhamadMalik951/to-do" repository.
+I'm passionate about coding and actively contribute to open-source projects. So far, I have made one contribution by creating a pull request on the "muhamadmalik/to-do" repository.
 
 📅 GitHub Presence:
 
