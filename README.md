@@ -1,5 +1,5 @@
 # Hi, I'm Muhamad Malik! 👋
-👋  I'm a web developer passionate about building efficient and user-friendly applications. I work with React, Next.js, Node.js, and Tailwind CSS, constantly learning new tools like TypeScript and Express.
+👋  I'm a Software developer passionate about building efficient and user-friendly applications. I work with React, Next.js, Node.js, and Tailwind CSS, constantly learning new tools like TypeScript and Express.
 
 🌱 Currently, I'm focusing on backend development with Node.js and enhancing my skills in TypeScript.
 
