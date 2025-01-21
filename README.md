@@ -9,24 +9,7 @@
 
 ✉️ I'm open to collaborations and new opportunities—feel free to reach out!
 
-<a href="https://reactjs.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-<a href="https://tailwindcss.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
-</a>
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
-</a>
-<a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
-</a>
-<a href="https://nextjs.org/" target="blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="40" width="40" />
-</a>
+
 
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhamadMalik951&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
